@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FAQ | CamsList</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header><nav><h2>CamsList</h2><div>
+<a href="CamsListindex.html">Home</a>
+<a href="browse.html">Browse</a>
+<a href="post.html">Post</a>
+<a href="safety.html">Safety</a>
+</div></nav></header>
+
+<div class="container">
+<h1>Frequently Asked Questions</h1>
+<p>Is CamsList free? Yes.</p>
+<p>Is it safer than Craigslist? Yes.</p>
+</div>
+
+<footer>&copy; 2025 CamsList</footer>
+</body>
+</html>
